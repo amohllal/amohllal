@@ -4,7 +4,7 @@
 **amohllal/amohllal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-<img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=amohllal&theme=dark&layout=compact&langs_count=8&hide_border=true" align="right"/>
+<img height="200em" width="500em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=amohllal&theme=dark&layout=compact&langs_count=8&hide_border=true" align="right"/>
 
 - 👨🏽‍💻 I’m currently working as Android Developer.
 - 💬 Ask me about Java and Kotlin.
