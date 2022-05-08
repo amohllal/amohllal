@@ -9,10 +9,10 @@
 - 👨🏽‍💻 I’m currently working as Android Developer.
 - 💬 Ask me about Java and Kotlin.
 - Projects
-  - [Mouwasat Hospital](https://play.google.com/store/apps/details?id=com.mouwasat.app).
-  - [Accessible Jordan](https://play.google.com/store/apps/details?id=com.dotjo.accessiblejordan).
-  - [Kinz](https://play.google.com/store/apps/details?id=com.dotjo.kinz).
-  - [Wafiyat](https://play.google.com/store/apps/details?id=com.androfolio.wafyat).
+  - [Mouwasat Hospital](https://play.google.com/store/apps/details?id=com.mouwasat.app)
+  - [Accessible Jordan](https://play.google.com/store/apps/details?id=com.dotjo.accessiblejordan)
+  - [Kinz](https://play.google.com/store/apps/details?id=com.dotjo.kinz)
+  - [Wafiyat](https://play.google.com/store/apps/details?id=com.androfolio.wafyat)
 - 📫 How to reach me:
   - ahmedmohllal@gmail.com.
   - LinkedIn [@ahmed-mohllal](https://www.linkedin.com/in/ahmed-mohllal/).
