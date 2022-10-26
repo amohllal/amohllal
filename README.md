@@ -6,7 +6,7 @@
 
 <img height="200em" width="500em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=amohllal&theme=dark&layout=compact&langs_count=8&hide_border=true" align="right"/>
 
-- 👨🏽‍💻 I’m currently working as Android Developer at [dotjo](https://www.linkedin.com/company/dot-jo/mycompany/).
+- 👨🏽‍💻 I’m currently working as Android Developer at [MVP Solutions](https://www.linkedin.com/company/mvp-solutions-io/).
 - 💬 Ask me about Java and Kotlin.
 - Projects
   - [Mouwasat Hospital](https://play.google.com/store/apps/details?id=com.mouwasat.app)
