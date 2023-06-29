@@ -6,10 +6,14 @@
 
 <img height="200em" width="500em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=amohllal&theme=dark&layout=compact&langs_count=8&hide_border=true" align="right"/>
 
-- 👨🏽‍💻 I’m currently working as Android Developer at [MVP Solutions](https://www.linkedin.com/company/mvp-solutions-io/).
+- 👨🏽‍💻 I’m currently working as Android Developer at [Mazaj](https://www.linkedin.com/company/mazajsaudi/mycompany/).
 - 💬 Ask me about Java and Kotlin.
 - Projects
+  - [Mazaj Customer](https://play.google.com/store/apps/details?id=com.mazaj.customer).
+  - [Mazaj Seller](https://play.google.com/store/apps/details?id=com.mazaj.seller&hl=en_US)
   - [Mouwasat Hospital](https://play.google.com/store/apps/details?id=com.mouwasat.app)
+  - [Sudanese Currency](https://play.google.com/store/apps/details?id=com.dotjo.cbos)
+  - [Shoop](https://play.google.com/store/apps/details?id=com.shoopshoop.app)
   - [Accessible Jordan](https://play.google.com/store/apps/details?id=com.dotjo.accessiblejordan)
   - [Kinz](https://play.google.com/store/apps/details?id=com.dotjo.kinz)
   - [Wafiyat](https://play.google.com/store/apps/details?id=com.androfolio.wafyat)
