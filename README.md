@@ -6,7 +6,7 @@
 
 <img height="200em" width="500em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=amohllal&theme=dark&layout=compact&langs_count=8&hide_border=true" align="right"/>
 
-- 👨🏽‍💻 I’m currently working as Android Developer at [Mazaj](https://www.linkedin.com/company/mazajsaudi/mycompany/).
+- 👨🏽‍💻 I’m currently working as a Senior Android Developer at [Link Developement](https://www.linkedin.com/company/link-development/).
 - 💬 Ask me about Java and Kotlin.
 - Projects
   - [Mazaj Customer](https://play.google.com/store/apps/details?id=com.mazaj.customer).
